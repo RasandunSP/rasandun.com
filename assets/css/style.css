@@ -854,7 +854,7 @@ section .container {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #63eda3;
+  color: #00d5ff;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -1090,7 +1090,7 @@ section .container {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #15bb62;
+  background: #014b5a;
 }
 
 @-webkit-keyframes animate-loading {
